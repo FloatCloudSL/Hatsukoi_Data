@@ -1,0 +1,2 @@
+2020-12-15 12:59:59	1	读取c:\users\administrator\desktop\hatsukoi\Dice1599682588\PublicDeck\中的22个文件, 共1030个条目\n扩展配置读取完毕√
+2020-12-15 12:59:59	1	Hatsukoi初始化完成，用时3秒

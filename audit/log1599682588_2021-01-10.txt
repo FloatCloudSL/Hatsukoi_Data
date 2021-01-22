@@ -1,0 +1,90 @@
+2021-01-10 09:56:35	1	\n读取c:\users\administrator\desktop\miraidice 20210109\Dice1599682588\PublicDeck\中的22个文件, 共1030个条目\n扩展配置读取完毕√
+2021-01-10 09:56:35	1	Hatsukoi初始化完成，用时3秒
+2021-01-10 10:06:35	0	Hatsukoi已自动保存
+2021-01-10 10:16:35	0	Hatsukoi已自动保存
+2021-01-10 13:22:23	1	\n读取c:\users\administrator\desktop\miraidice 20210109\Dice1599682588\PublicDeck\中的22个文件, 共1030个条目\n扩展配置读取完毕√
+2021-01-10 13:22:23	1	Hatsukoi初始化完成，用时3秒
+2021-01-10 13:32:23	0	Hatsukoi已自动保存
+2021-01-10 13:42:23	0	Hatsukoi已自动保存
+2021-01-10 13:52:23	0	Hatsukoi已自动保存
+2021-01-10 14:02:23	0	Hatsukoi已自动保存
+2021-01-10 14:05:07	1	\n读取c:\users\administrator\desktop\miraidice 20210109\Dice1599682588\PublicDeck\中的22个文件, 共1030个条目\n扩展配置读取完毕√
+2021-01-10 14:05:07	1	Hatsukoi初始化完成，用时3秒
+2021-01-10 14:15:07	0	Hatsukoi已自动保存
+2021-01-10 14:25:07	0	Hatsukoi已自动保存
+2021-01-10 14:35:07	0	Hatsukoi已自动保存
+2021-01-10 14:45:07	0	Hatsukoi已自动保存
+2021-01-10 14:55:07	0	Hatsukoi已自动保存
+2021-01-10 15:05:07	0	Hatsukoi已自动保存
+2021-01-10 15:15:07	0	Hatsukoi已自动保存
+2021-01-10 15:25:07	0	Hatsukoi已自动保存
+2021-01-10 15:35:07	0	Hatsukoi已自动保存
+2021-01-10 15:45:07	0	Hatsukoi已自动保存
+2021-01-10 15:55:07	0	Hatsukoi已自动保存
+2021-01-10 16:05:07	0	Hatsukoi已自动保存
+2021-01-10 16:15:07	0	Hatsukoi已自动保存
+2021-01-10 16:25:07	0	Hatsukoi已自动保存
+2021-01-10 16:35:07	0	Hatsukoi已自动保存
+2021-01-10 16:45:07	0	Hatsukoi已自动保存
+2021-01-10 16:55:07	0	Hatsukoi已自动保存
+2021-01-10 17:05:07	0	Hatsukoi已自动保存
+2021-01-10 17:15:07	0	Hatsukoi已自动保存
+2021-01-10 17:25:07	0	Hatsukoi已自动保存
+2021-01-10 17:35:07	0	Hatsukoi已自动保存
+2021-01-10 17:45:07	0	Hatsukoi已自动保存
+2021-01-10 17:55:07	0	Hatsukoi已自动保存
+2021-01-10 18:05:07	0	Hatsukoi已自动保存
+2021-01-10 18:14:34	1	\n读取c:\users\administrator\desktop\miraidice 20210109\Dice1599682588\PublicDeck\中的22个文件, 共1030个条目\n扩展配置读取完毕√
+2021-01-10 18:14:34	1	Hatsukoi初始化完成，用时3秒
+2021-01-10 18:24:34	0	Hatsukoi已自动保存
+2021-01-10 18:34:34	0	Hatsukoi已自动保存
+2021-01-10 18:43:43	1	\n读取c:\users\administrator\desktop\miraidice 20210109\Dice1599682588\PublicDeck\中的22个文件, 共1030个条目\n读取\plugin\中的2个脚本, 共7个指令\n扩展配置读取完毕√
+2021-01-10 18:43:43	1	Hatsukoi初始化完成，用时3秒
+2021-01-10 18:53:43	0	Hatsukoi已自动保存
+2021-01-10 19:03:43	0	Hatsukoi已自动保存
+2021-01-10 19:13:43	0	Hatsukoi已自动保存
+2021-01-10 19:23:43	0	Hatsukoi已自动保存
+2021-01-10 19:33:43	0	Hatsukoi已自动保存
+2021-01-10 19:43:43	0	Hatsukoi已自动保存
+2021-01-10 19:53:43	0	Hatsukoi已自动保存
+2021-01-10 20:03:43	0	Hatsukoi已自动保存
+2021-01-10 20:13:43	0	Hatsukoi已自动保存
+2021-01-10 20:22:37	8	警告:鲁迅(1305550688)对Hatsukoi发送了含敏感词指令:\ncss boss来不来
+2021-01-10 20:23:43	0	Hatsukoi已自动保存
+2021-01-10 20:33:43	0	Hatsukoi已自动保存
+2021-01-10 20:36:13	1	\n读取c:\users\administrator\desktop\miraidice 20210109\Dice1599682588\PublicDeck\中的22个文件, 共1030个条目\n读取\plugin\中的2个脚本, 共7个指令\n扩展配置读取完毕√
+2021-01-10 20:36:13	1	Hatsukoi初始化完成，用时3秒
+2021-01-10 20:46:13	0	Hatsukoi已自动保存
+2021-01-10 20:56:13	0	Hatsukoi已自动保存
+2021-01-10 21:06:13	0	Hatsukoi已自动保存
+2021-01-10 21:16:13	0	Hatsukoi已自动保存
+2021-01-10 21:26:13	0	Hatsukoi已自动保存
+2021-01-10 21:29:48	1	好友添加请求，来自 毛茸茸の蛾(197475806):\n已同意
+2021-01-10 21:30:09	0	Hatsukoi新加入:殓蝶馆(978576107)[21/1000]
+2021-01-10 21:30:09	1	Hatsukoi新加入:殓蝶馆(978576107)[21/1000]，群主糖化合金蛾子(197475806)；\n用户浓度10% (2/19), 信任度0
+2021-01-10 21:30:57	8	警告:糖化合金蛾子(197475806)对Hatsukoi发送了含敏感词指令:\n[CQ:app,data={"app":"com.tencent.mannounce"\t"config":{"ctime":1610285456\t"forward":0\t"token":"6be79b8d935264580cf8f440cbf57335"}\t"desc":"群公告"\t"extra":{"app_type":1\t"appid":1101236949\t"uin":197475806}\t"meta":{"mannounce":{"cr":1\t"encode":1\t"fid":"ebe2533a000000009001fb5fdcb90a00"\t"gc":"978576107"\t"sign":"f892fb4e1bae9c201a618eaa2706f927"\t"text":"cmVhZG1lLm1kDQoxLuacrOmqsOWomChIYXRzdWtvaSnkuLrnuq/lhY3otLnkvb/nlKjvvIzmnI3liqHlmajkuZ/kuI3otLXvvIxzdmlw5Lmf55So5LiN5LiK77yM5omA5Lul5LiN5Lya6ICD6JmR6LWE5Yqp77yM5Zug5q2k6aqw5Li75pyJ5p2D5LiN6Kej6YeK55qE5oOF5Ya15LiL5riF6YCA5Lu75L2V5LiA5Liq576k6IGK44CCDQoyLuS4peemgeWvuUhhdHN1a29p6K+05LiN5aW955qE6K+d77yM5Yir6Zeu5oiR55WM5a6a77yM5oiR55u05o6l54us6KOB77yM5Y+q6KaB5oiR5LiN54i95bCx5ouJ6buR44CCDQozLuemgeatouWvuUhhdHN1a29p5L2/55So5pWP5oSf6K+N5rGH77yM5pu05Lil56aB5Zyo6Ieq5a6a5LmJ5Zue5aSN5LukSGF0c3Vrb2nlm57lpI3mlY/mhJ/or43msYfvvIzov53ogIXmsLjkuYXpu5HlkI3ljZXlpITnkIbjgIINCjQu5pyJ5LqL5om+6aqw5Li75Y+v5Lul56eB6IGK5Lmf5Y+v5Lul5Y+R6YCBLnNlbmQgW+i+k+WFpV0NCjUu55Sf5rS755u45YWz5Zue5aSN5Y+v5Lul6ZqP5L6/6K6+5a6a77yM5peg5oSP5LmJ55qE5q+U5aaCLnJlcGx5IGZsb2F0IOeJm2Ig6L+Z56eN546p5a6M5Lul5ZCO5YaN6L6T5YWlLnJlcGx5IFvkvaDorr7lrprnmoTop6blj5Hor41d5p2l5riF55CG6L+Z5Liq5YWz6ZSu6K+N77yM5LiN6KaB55WZ5Lmx5LiD5YWr57Of55qE5YWz6ZSu6K+N44CCDQo2LuWFt+S9k+S9v+eUqOivt+eci+WumOaWueaWh+ahow0KAWh0dHBzOi8vdjJkb2NzLmtva29uYS50ZWMCaC96aC9sYXRlc3QvDQo2LuaDs+i1t+adpeS7peWQjuWGjeWKoO+8jOatpOadoeasvuWPquWinuS4jeWHj++8jOaMiemcgOS/ruaUueOAgg=="\t"title":"576k5YWs5ZGK"\t"tw":1\t"uin":"197475806"}}\t"prompt":"[群公告]readme.md1.本骰娘(Hatsukoi)为纯免费使用，服务器也不贵，svip也用不上，所以不会考虑资助，因此骰主有权不解释的情况下清退任何一个群聊。2.严禁对Hatsukoi说不好的话…"\t"ver":"1.0.0.43"\t"view":"main"}]
+2021-01-10 21:36:13	0	Hatsukoi已自动保存
+2021-01-10 21:46:13	0	Hatsukoi已自动保存
+2021-01-10 21:56:13	0	Hatsukoi已自动保存
+2021-01-10 22:06:13	0	Hatsukoi已自动保存
+2021-01-10 22:16:13	0	Hatsukoi已自动保存
+2021-01-10 22:26:13	0	Hatsukoi已自动保存
+2021-01-10 22:36:13	0	Hatsukoi已自动保存
+2021-01-10 22:36:19	1	\n读取c:\users\administrator\desktop\miraidice 20210109\Dice1599682588\PublicDeck\中的22个文件, 共1030个条目\n读取\plugin\中的2个脚本, 共7个指令\n扩展配置读取完毕√
+2021-01-10 22:36:19	1	Hatsukoi初始化完成，用时3秒
+2021-01-10 22:46:13	0	Hatsukoi已自动保存
+2021-01-10 22:46:19	0	Hatsukoi已自动保存
+2021-01-10 22:56:13	0	Hatsukoi已自动保存
+2021-01-10 22:56:19	0	Hatsukoi已自动保存
+2021-01-10 23:06:13	0	Hatsukoi已自动保存
+2021-01-10 23:06:19	0	Hatsukoi已自动保存
+2021-01-10 23:16:13	0	Hatsukoi已自动保存
+2021-01-10 23:16:19	0	Hatsukoi已自动保存
+2021-01-10 23:26:13	0	Hatsukoi已自动保存
+2021-01-10 23:26:19	0	Hatsukoi已自动保存
+2021-01-10 23:36:13	0	Hatsukoi已自动保存
+2021-01-10 23:36:19	0	Hatsukoi已自动保存
+2021-01-10 23:46:13	0	Hatsukoi已自动保存
+2021-01-10 23:46:19	0	Hatsukoi已自动保存
+2021-01-10 23:56:13	0	Hatsukoi已自动保存
+2021-01-10 23:56:19	0	Hatsukoi已自动保存

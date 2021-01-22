@@ -1,0 +1,6 @@
+	1	初始化群记录3条
+	2	Hatsukoi读取lua文件c:\users\administrator\desktop\miraidice 20210109\Dice1599682588\plugin\TestReply.lua失败!
+	2	Hatsukoi读取lua文件c:\users\administrator\desktop\miraidice 20210109\Dice1599682588\plugin\TestReply.lua失败!
+	2	Hatsukoi读取lua文件c:\users\administrator\desktop\miraidice 20210109\Dice1599682588\plugin\TestReply.lua失败!
+	2	Hatsukoi读取lua文件c:\users\administrator\desktop\miraidice 20210109\Dice1599682588\plugin\TestReply.lua失败!
+	2	Hatsukoi读取lua文件c:\users\administrator\desktop\miraidice 20210109\Dice1599682588\plugin\TestReply.lua失败!
