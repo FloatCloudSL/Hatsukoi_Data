@@ -13,13 +13,21 @@
 ## Hatsukoi常用指令（包括插件指令）
 ### Dice! 指令 
 .help    //查看基本信息
+
 .jrrp    //查看你今天的人品数值
+
 .r       //roll点数,Hatsukoi目前是百面骰
+
 .dnd     //随机生成你的Dungeons & Dragons英雄作成
+
 .coc     //随机生成你的Call of Cthulhu调查员作成
+
 .send [反馈给Master的信息] //将消息发送给Master
+
 .welcome [欢迎词] //每有新人入群时将发送欢迎词
+
 .draw [牌堆名称] ([抽牌数量]) //不放回地抽牌；抽牌数量不能超过牌堆数量（牌堆列表后面会写）
+
 # 插件指令
 ## 搜歌
 [用mirai机器人搜索音乐并以卡片的形式分享](https://github.com/khjxiaogu/MiraiSongPlugin )
