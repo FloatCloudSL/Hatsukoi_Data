@@ -1,10 +1,14 @@
 # Hatsukoi使用文档
 # 感谢
 [Mirai](https://github.com/mamoe/mirai )
+
 [Dice!](https://github.com/Dice-Developer-Team/Dice )
+
 # 快速上手
 [Dice!官方论坛](https://forum.kokona.tech/ )
+
 [Dice!官方文档](https://v2docs.kokona.tech/zh/latest/ )
+
 # 跳过这些，你还可以看这个...
 ## Hatsukoi常用指令（包括插件指令）
 ### Dice! 指令 
