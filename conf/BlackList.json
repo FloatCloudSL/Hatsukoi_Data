@@ -1,0 +1,15 @@
+[
+{"danger":2,"type":"null"},
+{"danger":2,"type":"null"},
+{"danger":2,"type":"null"},
+{"danger":2,"type":"null"},
+{"danger":2,"type":"null"},
+{"danger":2,"type":"null"},
+{"danger":2,"type":"null"},
+{"danger":2,"type":"null"},
+{"danger":2,"type":"null"},
+{"danger":2,"type":"null"},
+{"danger":2,"type":"null"},
+{"DiceMaid":1599682588,"danger":2,"erase":["fromQQ"],"fromQQ":435948435,"masterQQ":694350629,"note":"2020-11-24 20:39:15 [6Hr](621082871)监测到々(435948435)对Hatsukoi(1599682588)高频发送指令达28/min","time":"2020-11-24 20:39:15","type":"spam","wid":6297},
+{"DiceMaid":1599682588,"danger":2,"erase":["fromQQ"],"fromQQ":1763392245,"masterQQ":631616665,"note":"2020-12-26 20:08:13 [MITE联机](1030159301)监测到Mrepic1011(1763392245)对Hatsukoi(1599682588)高频发送指令达22/30s","time":"2020-12-26 20:08:13","type":"spam"}
+]

@@ -1,0 +1,21 @@
+<console>
+	<mode>1</mode>
+	<master>631616665</master>
+	<clock>
+		<clear>11:45</clear>
+		<on>18:04</on>
+	</clock>
+	<conf>
+		<n>AllowStranger=2</n>
+		<n>BannedBanInviter=1</n>
+		<n>BelieveDiceList=1</n>
+		<n>DisabledGlobal=0</n>
+		<n>DisabledJrrp=0</n>
+		<n>DisabledSend=0</n>
+		<n>KickedBanInviter=1</n>
+		<n>LeaveBlackQQ=1</n>
+		<n>ListenGroupAdd=1</n>
+		<n>ListenGroupBan=1</n>
+		<n>Private=0</n>
+	</conf>
+</console>
