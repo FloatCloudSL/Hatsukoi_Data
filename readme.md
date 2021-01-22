@@ -1,3 +1,4 @@
+# 我是懒狗，龟速更新中
 # Hatsukoi使用文档
 # 感谢
 [Mirai](https://github.com/mamoe/mirai )
