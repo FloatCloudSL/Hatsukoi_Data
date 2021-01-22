@@ -33,16 +33,24 @@
 [用mirai机器人搜索音乐并以卡片的形式分享](https://github.com/khjxiaogu/MiraiSongPlugin )
 
 #音乐 关键词  //自动搜索所有源以找出来找最佳音频来源
+
 #语音 关键词  //自动搜索所有源，以语音信息的形式发出
+
 #外链 关键词  //自动搜索所有源，以外链信息的形式发出
+
 #QQ 关键词    //搜索QQ音乐
+
 #网易 关键词  //搜索网易云音乐
+
 #酷狗 关键词  //搜索酷狗音乐
+
 #千千 关键词  //搜索千千音乐（百度音乐）
+
 #点歌 来源 外观 关键词
 
 ## 蛇图
 [基于mirai-console的涩图机器人](https://github.com/Samarium150/mirai-console-lolicon )
 
 /lolicon help               //获取帮助信息
+
 /lolicon get [keyword]      //根据关键字发送涩图, 不提供关键字则随机发送一张
